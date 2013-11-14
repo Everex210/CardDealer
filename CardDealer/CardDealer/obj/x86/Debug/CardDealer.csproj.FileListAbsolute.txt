@@ -1,0 +1,7 @@
+H:\Programming\Programs\CardDealer\CardDealer\bin\Debug\CardDealer.exe
+H:\Programming\Programs\CardDealer\CardDealer\bin\Debug\CardDealer.pdb
+H:\Programming\Programs\CardDealer\CardDealer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\Programs\CardDealer\CardDealer\obj\x86\Debug\CardDealer.exe
+H:\Programming\Programs\CardDealer\CardDealer\obj\x86\Debug\CardDealer.pdb
+H:\Programming\C# Programs\CardDealer\CardDealer\obj\x86\Debug\CardDealer.exe
+H:\Programming\C# Programs\CardDealer\CardDealer\obj\x86\Debug\CardDealer.pdb
